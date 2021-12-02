@@ -1,2 +1,1 @@
-Digital Business Card: student project for Scrimba React course. Static website implemented with React.
-Website: https://bananazigzags.github.io/biz-card/
+Clone of AirBnB Experiences built with React. Student project for a Scrimba course.

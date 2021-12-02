@@ -1,8 +1,8 @@
 {
-  "name": "biz-card",
+  "name": "experiences",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bananazigzags.github.io/biz-card",
+  "homepage": "http://bananazigzags.github.io/experiences",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",

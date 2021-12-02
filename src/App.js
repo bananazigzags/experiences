@@ -1,13 +1,13 @@
 import './App.css';
-import Header from "./components/Header.js"
-import Main from "./components/Main.js"
+import Navbar from "./components/Navbar.js"
+import Hero from "./components/Hero.js"
 
 
 function App() {
   return (
     <div>
-      <Header />
-      <Main />
+      <Navbar />
+      <Hero />
     </div>
   );
 }
