@@ -4,7 +4,7 @@ h1 {
 }
 
 section {
-    padding: 20px;
+    padding: 20px 36px;
 }
 
 .hero {
@@ -14,10 +14,6 @@ section {
 
 .hero-pic {
     max-width: 400px;
-}
-
-.text-block {
-    margin-left: 20px;
 }
 
 .text-block > h1 {

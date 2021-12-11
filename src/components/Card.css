@@ -1,0 +1,52 @@
+.card-pic {
+    width: 176px;
+    height: 235px;
+    border-radius: 10px;
+}
+
+.card-heading, .review-line {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.review-line {
+    display: inline;
+}
+
+.price-line {
+    margin-top: 5px;
+    font-family: Poppins;
+    font-size: 12px;
+}
+
+.card {
+    margin-left: 37px;
+    display: inline-block;
+}
+
+.star-img {
+    width: 14px;
+}
+
+.price-from {
+    font-weight: bold;
+}
+
+.main-card-pic {
+    position: relative;
+}
+
+.status {
+    font-weight: 400;
+    font-size: 11px;
+    border-radius: 2px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    background-color: white;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
